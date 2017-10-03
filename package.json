@@ -1,0 +1,25 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Discord Bot created in javascript with discord.js node package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meirl/Discord.git"
+  },
+  "author": "",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/meirl/Discord/issues"
+  },
+  "homepage": "https://github.com/meirl/Discord#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "discord.js": "^11.2.1",
+    "moment": "^2.18.1",
+    "snekfetch": "^3.4.4"
+  }
+}
